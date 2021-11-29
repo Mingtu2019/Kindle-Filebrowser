@@ -6,23 +6,22 @@
 
 **安装**: 下载插件压缩包，解压得到 filebrowser 文件夹，将其拷贝到 Kindle 根目录下的 extensions 目录中。
 
-**介绍**: 插件安装完成后，进入 Kindle 界面，打开 KUAL，可以在菜单中找到【File Browser】，可进行如下操作：  
+**介绍**: 插件安装完成后，进入 Kindle 界面，打开 KUAL，可以在菜单中找到「File Browser」，可进行如下操作：  
 
-      【 Start 】自动打开 WiFi,开启免登录的 Web 服务  
+   * 「 Start 」自动打开 WiFi,开启免登录的 Web 服务  
 
-      【 Start (Auth) 】自动打开 WiFi,开启带登录验证的 Web 服务（默认用户名密码均为：admin）  
+   * 「 Start (Auth) 」自动打开 WiFi,开启带登录验证的 Web 服务（默认用户名密码均为：admin）  
 
-      【 Reset 】删除包含配置信息的数据文件 filebrowser.db  
+   * 「 Reset 」删除包含配置信息的数据文件 filebrowser.db  
 
-      【 Stop 】停止 WEB 服务，关闭 WiFi 开启飞行模式，关闭 filebrowser，恢复屏幕自动关闭功能  
+   * 「 Stop 」停止 WEB 服务，关闭 WiFi 开启飞行模式，关闭 filebrowser，恢复屏幕自动关闭功能  
 
-注：  
+注: 
+   1. 如果服务开启时设备 WiFi 处于关闭状态，WiFi 会被自动打；在服务关闭后则自动关闭 WiFi。
 
- 如果服务开启时设备 WiFi 处于关闭状态，WiFi 会被自动打；在服务关闭后则自动关闭 WiFi。
+   2. 开启 Web 服务后，可以在 Kindle 界面的顶部看到 IP 地址，在同一局域网下即可通过浏览器访问此地址。
 
- 开启 Web 服务后，可以在 Kindle 界面的顶部看到 IP 地址，在同一局域网下即可通过浏览器访问此地址。
-
- 服务开启后会阻止屏幕自动关闭，关闭 WiFi 或者开启飞行模式时会自动恢复。
+   3. 服务开启后会阻止屏幕自动关闭，关闭 WiFi 或者开启飞行模式时会自动恢复。
 
 -----------
 
