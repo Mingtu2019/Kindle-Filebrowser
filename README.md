@@ -6,7 +6,9 @@
 
 **安装**: 下载插件压缩包，解压得到 filebrowser 文件夹，将其拷贝到 Kindle 根目录下的 extensions 目录中。
 
-**介绍**: 插件安装完成后，进入 Kindle 界面，打开 KUAL，可以在菜单中找到「File Browser」，可进行如下操作：  
+**介绍**:   
+
+插件安装完成后，进入 Kindle 界面，打开 KUAL，可以在菜单中找到「File Browser」，可进行如下操作：  
 
    * 「 Start 」自动打开 WiFi,开启免登录的 Web 服务  
 
