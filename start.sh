@@ -16,8 +16,6 @@ if [ 0 -eq `lipc-get-prop com.lab126.cmd wirelessEnable` ]; then
 	lipc-set-prop com.lab126.cmd wirelessEnable 1
 fi
 
-eips 25 1 "                  "
-
 # start filebrowser in the background
 if [ "$(ps aux | grep '[f]ilebrowser')" ];then killall filebrowser;fi
 
@@ -39,7 +37,7 @@ while [ 1 -eq `lipc-get-prop com.lab126.cmd wirelessEnable` ] && [ "$(ps aux | g
     sleep 5
 done > /dev/null &
 
-sleep 60
+sleep 45
 
 #保持屏幕常亮，如果网络连接并且filebrowser运行，则开启屏幕常量，否则关闭屏幕常亮关闭wifi关闭filebrowser并退出
 while :; do

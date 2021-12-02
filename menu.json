@@ -20,8 +20,7 @@
 					"name": "Show Status",
 					"priority": 3,
 					"action": "./show_status.sh",
-					"param": "",
-					"exitmenu": false
+					"param": ""
 				},
 				{
 					"name": "Stop",
@@ -30,8 +29,14 @@
 					"param": ""
 				},
 				{
-					"name": "Reset",
+					"name": "Keep WiFi",
 					"priority": 5,
+					"action": "./keep_wifi.sh",
+					"param": ""
+				},
+				{
+					"name": "Reset",
+					"priority": 6,
 					"action": "rm ./filebrowser.db",
 					"param": ""
 				}
