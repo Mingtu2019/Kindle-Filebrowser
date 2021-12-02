@@ -16,7 +16,7 @@
 
    * 「 Reset 」删除包含配置信息的数据文件 filebrowser.db  
 
-   *  「 Keep WiFi 」停止 filebrowser，保持 WiFi运行
+   *  「 Keep WiFi 」停止 filebrowser，保持 WiFi运行，关闭屏幕常亮
 
    * 「 Stop 」停止 WEB 服务，关闭 WiFi 开启飞行模式，关闭 filebrowser，恢复屏幕自动关闭功能  
 
