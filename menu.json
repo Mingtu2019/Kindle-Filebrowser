@@ -20,7 +20,8 @@
 					"name": "Show Status",
 					"priority": 3,
 					"action": "./show_status.sh",
-					"param": ""
+					"param": "",
+					"exitmenu": false
 				},
 				{
 					"name": "Stop",
