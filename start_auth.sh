@@ -26,7 +26,7 @@ then
     then
         ./filebrowser config set --auth.method=json > /dev/null
     fi
-fi &
+fi 
 ./filebrowser -a 0.0.0.0 -p 80 -r /mnt/us > /dev/null &
 
 # refresh IP display in the background

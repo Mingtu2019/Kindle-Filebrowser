@@ -49,7 +49,7 @@ else
     lipc-set-prop -i com.lab126.powerd preventScreenSaver 0
     lipc-set-prop com.lab126.cmd wirelessEnable 0
     killall filebrowser
-    exit 0
+    exit
 fi 
 done > /dev/null &
 
