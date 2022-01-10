@@ -2,7 +2,7 @@
 ------------
 开始以下步骤前需确保你的 Kindle 已经成功 **越狱** ，越狱可参考 <https://bookfere.com/skills/jailbreak> ,并安装了 KUAL 插件。
 
-**下载**: <https://github.com/Mingtu2019/Kindle-Filebrowser/releases/download/1.0.0/filebrowser_1.0.0.7z>
+**下载**: <https://github.com/Mingtu2019/Kindle-Filebrowser/releases/download/1.1.0/filebrowser_v1.1.0.7z>
 
 **安装**: 下载插件压缩包，解压得到 filebrowser 文件夹，将其拷贝到 Kindle 根目录下的 extensions 目录中。
 
